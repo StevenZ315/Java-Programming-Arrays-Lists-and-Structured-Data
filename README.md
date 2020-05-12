@@ -7,4 +7,4 @@ This is the third course of the Specialization, <a href="https://www.coursera.or
 
 Some code should be run in a custom Bluej Development Environment made by Duke's University especially for this course. You can get the IDE from the University website <a href="http://www.dukelearntoprogram.com/downloads/bluej.php?course=2">here</a>.
 
-Here's my <a>certificate</a> on completing the course.
+Here's my <a href="https://www.coursera.org/account/accomplishments/records/QGBWEZ78DFTE">certificate</a> on completing the course.
